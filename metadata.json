@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Multiplayer",
+  "description": "Real-time multiplayer Ludo web application with room creation, dice rolling, standard rules, and Supabase real-time sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
